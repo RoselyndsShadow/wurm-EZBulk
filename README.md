@@ -1,4 +1,4 @@
-EZBulk - Fast item transfers that skip the dialogue menu.
+EZBulk for Wurm Unlimited - Fast item transfers that skip the dialogue menu.
 
  * Hold CTRL while dragging an item from a bulk container to transfer the entire stack
  * Hold SHIFT while dragging an item from a bulk container to transfer all similar items
